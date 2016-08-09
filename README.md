@@ -2,6 +2,12 @@
 
 Organisation for the I4 Projektseminar course in Information Science at Heinrich-Heine-University in SS 2016.
 
+## Schedule ##
+
+- final drafts should be brought into the seminar on 10.08.16
+- final project plan until 11.08.16 in *your GitHub repository!*
+- complete project until 23.09.16 23:59 CET
+
 ## ILIAS ##
 
 All attending students can download course materials and access the forum via the **ILIAS** platform: https://ilias.uni-duesseldorf.de/ilias_0500xy/ilias/ilias.php?ref_id=443665&cmdClass=ilobjcoursegui&cmdNode=55:tt&baseClass=ilrepositorygui
