@@ -1,10 +1,20 @@
-# Infos
+# Info
 
 Organisation for the I4 Projektseminar course in Information Science at Heinrich-Heine-University in SS 2016.
 
 ## ILIAS ##
 
 All attending students can download course materials and access the forum via the **ILIAS** platform: https://ilias.uni-duesseldorf.de/ilias_0500xy/ilias/ilias.php?ref_id=443665&cmdClass=ilobjcoursegui&cmdNode=55:tt&baseClass=ilrepositorygui
+
+## TODO ##
+
+- [ ] write commit messages in English only
+- [ ] create a README.MD file directly into your project folder (like this one)
+    - project title
+    - features
+    - download/install instructions
+    - **Use this template:** [README-TEMPLATE.md](https://github.com/I4-Projektseminar-HHU-2016/infos/blob/master/README-TEMPLATE.md)
+- [ ] use GitHub Issues if appropriate
 
 ## Useful links ##
 
