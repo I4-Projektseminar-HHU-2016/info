@@ -56,7 +56,7 @@ All attending students can download course materials and access the forum via th
 ## commit stats ##
 
 Overview about the total commits per student. Because we can! 😉
-
+```
 marionline03:                    ⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿ (38)
 padgm:                           ⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿ (18)
 Geemania:                        ⫿⫿⫿⫿⫿⫿⫿⫿⫿ (9)
@@ -85,3 +85,4 @@ anrei112:                        ⫿ (1)
 AlesiaVaranovich:                ⫿ (1)
 Pani22:                          ⫿ (1)
 
+```
