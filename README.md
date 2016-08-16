@@ -51,3 +51,37 @@ All attending students can download course materials and access the forum via th
 - `git-merge(1)` to merge between local branches.
 - `git-rebase(1)` to maintain topic branches.
 - `git-tag(1)` to mark a known point.
+
+
+## commit stats ##
+
+Overview about the total commits per student. Because we can! 😉
+
+marionline03:                    ⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿ (38)
+padgm:                           ⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿⫿ (18)
+Geemania:                        ⫿⫿⫿⫿⫿⫿⫿⫿⫿ (9)
+M4urice:                         ⫿⫿⫿⫿⫿⫿⫿ (7)
+BrainWasheD:                     ⫿⫿⫿⫿⫿⫿⫿ (7)
+lomoz:                           ⫿⫿⫿⫿⫿⫿⫿ (7)
+xayfuu:                          ⫿⫿⫿⫿⫿⫿⫿ (7)
+alida-at-programmingprojects:    ⫿⫿⫿⫿⫿⫿ (6)
+InfoStudent16:                   ⫿⫿⫿⫿ (4)
+elmag100:                        ⫿⫿⫿⫿ (4)
+phinowa:                         ⫿⫿⫿ (3)
+josch149:                        ⫿⫿⫿ (3)
+HaAky:                           ⫿⫿⫿ (3)
+ankue113:                        ⫿⫿ (2)
+FelixWende:                      ⫿⫿ (2)
+kajue101:                        ⫿⫿ (2)
+dikam100:                        ⫿⫿ (2)
+bellow774:                       ⫿⫿ (2)
+steppenwoelfin:                  ⫿⫿ (2)
+Ellareen:                        ⫿ (1)
+degel100:                        ⫿ (1)
+slovdahl:                        ⫿ (1)
+mukay100:                        ⫿ (1)
+OlafMisch:                       ⫿ (1)
+anrei112:                        ⫿ (1)
+AlesiaVaranovich:                ⫿ (1)
+Pani22:                          ⫿ (1)
+
