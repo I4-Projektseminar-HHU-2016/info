@@ -28,10 +28,11 @@ for repo in o.repositories():
 # sort the stats desc by commit count
 stats.sort(key=lambda student: student[1], reverse=True)
 
-# print the stats with a little bar chart (num_of_commits*"|")
+# print the stats with a little bar chart (num_of_commits * "|")
 
 print("\n##### Stats for organization {0} ###\n".format(org_name))
 for stat in stats:
-    print("{0}: {1} ({2})".format(stat[0], stat[1] * "|", stat[1]))
+    print("{0}: {3} {1} ({2})".format(
+        stat[0], stat[1] * "|", stat[1], " " * (50 - len(stat[0]))))
 
 print()
